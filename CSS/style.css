@@ -9,7 +9,6 @@ body, html {
     display: flex;
     justify-content: center;
     width: 100%;
-    height: 300px; 
     background-color: #f2f2f2; /* Fallback color in case the image doesn't load */
     overflow: hidden;
 }
@@ -25,3 +24,4 @@ body, html {
     margin: 20px;
     padding: 0;
 }
+
